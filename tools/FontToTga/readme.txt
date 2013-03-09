@@ -1,7 +1,7 @@
 FontToTga
 =========
 
-This tool helps you to get your favourite TrueType font (.ttf) into ArmedAssault(2).
+This tool helps you to get your favourite TrueType font (.ttf) into ARMA2, ARMA2 OA.
 It creates the needed .tga texture files containing the characters and the .fxy file,
 which tells the engine where the characters are on the texture.
 
